@@ -1,0 +1,2 @@
+# DiffLayoutCollection
+使用类似状态机的操作改变uicollectionview 的layout布局
